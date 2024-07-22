@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pudinzinha 
+- 👋 Hi, I’m Lu
 - 👀 I’m interested in artificial intelligence and programming.
 - 🌱 I’m currently learning Currently new machine learning techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to natural language processing.
